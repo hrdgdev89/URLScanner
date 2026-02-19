@@ -22,7 +22,7 @@
 > **Catatan:** Jalankan aplikasi di emulator/device dan ganti placeholder ini dengan screenshot hasil tangkapan layar.
 
 | Main Screen | Phishing Detected | Site is Safe |
-|![Main](screenshots/main.png)|![Phishing](screenshots/result_phishing.png)|![Safe](screenshots/result_safe.png)|
+|:![Main](screenshots/main.png):|:![Phishing](screenshots/result_phishing.png):|:![Safe](screenshots/result_safe.png):|
 | *[Main Screen Screenshot]* | *[Phishing Warning Screenshot]* | *[Safe Result Screenshot]* |
 
 ---
